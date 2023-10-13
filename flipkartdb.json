@@ -1,0 +1,36 @@
+{
+  "Products": [
+    {
+      "id": "101",
+      "title": "realme mobile",
+      "brand": "realme",
+      "price": "20000",
+      "description": "128 GB ROM\n8 GB RAM",
+      "image": "https://static.digit.in/product/99993970579bc30512f3917b331611fb58ce7ac3.jpeg?tr=w-1200"
+    },
+    {
+      "id": "102",
+      "title": "oppo",
+      "brand": "oppo",
+      "price": "15000",
+      "description": "64 GB ROM\n6 GB RAM\n4G",
+      "image": "https://th.bing.com/th/id/OIP.5YLyPzAKz9VA537lbv-orAHaHa?pid=ImgDet&w=1200&h=1200&rs=1"
+    },
+    {
+      "id": "103",
+      "title": "ear pods",
+      "brand": "boat",
+      "price": "2000",
+      "description": "10 m distance",
+      "image": "https://swiftbox.in/wp-content/uploads/2020/06/boAt-Airdopes-383-True-Wireless-Earbuds-1.jpg"
+    },
+    {
+      "id": "104",
+      "title": "realme 8 pro",
+      "brand": "realme",
+      "price": "25000",
+      "description": "128 GB ROM\n8 GB RAM\ncam 108 mg pics",
+      "image": "https://th.bing.com/th/id/OIP.3dVBEL4HYtYmYh28XIKYswHaHa?pid=ImgDet&rs=1"
+    }
+  ]
+}
