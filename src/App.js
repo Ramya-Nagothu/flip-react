@@ -14,6 +14,7 @@ function App() {
         <div className='row'>
                 <Searchbar/>
                 <Menu/>
+                
                 <Slide/>
                 <Cards/>
                 <Prod/>
